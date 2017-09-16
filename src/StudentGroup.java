@@ -198,7 +198,7 @@ s
 	@Override
 	public Student[] getStudentsWithMaxAvgMark() {
 		// Add your implementation here
-		/*int l=this.students.length;
+		int l=this.students.length;
 		int max=this.students[0].avgMark;
 		for(int i=0;i<l;i++)
 		 if(this.students[i].avgMark > max)
@@ -211,7 +211,7 @@ s
                            if(this.students[i].avgMark == max)
 				students1[k++]=this.students[i];
                          }
-*/
+
 		return null;
 	}
 
